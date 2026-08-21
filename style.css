@@ -34,7 +34,7 @@ h1::before {
     width: 110px;
     height: 110px;
     margin: 0 auto 16px auto;
-    background-image: url("mappet_icon_logo (1).png"); /* Certifique-se do nome do arquivo */
+    background-image: url("Imagens/logo.png"); /* Certifique-se do nome do arquivo */
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
